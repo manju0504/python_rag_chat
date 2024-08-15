@@ -11,7 +11,7 @@ This project demonstrates how to use Ollama locally with a Python application.
 
 1. Clone this repository:
 git clone https://github.com/manju0504/python_rag_chat.git
-cd your-repo-name
+cd python_rag_chat
 
 2. Create a virtual environment:
 ```
